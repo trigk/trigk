@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tri!
+# Hi there 👋, I'm Tran Ngoc Tri!
 
 Welcome to my GitHub profile! I'm a developer passionate about technology, coding, and creating innovative solutions. Here’s a bit about me and what I do:
 
