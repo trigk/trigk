@@ -22,10 +22,10 @@ Welcome to my GitHub profile! I'm a developer passionate about technology, codin
 - Open-source projects
 
 ## 📈 GitHub Stats
-![Tri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Tri's GitHub Stats](https://github-readme-stats.vercel.app/api?trigk&show_icons=true&theme=radical)
 
 ## 🤝 Connect with me
 - [Facebook](https://www.facebook.com/trigondc)
-- [EMail](tritrantnt@gmail.com)
+- [Email](tritrantnt@gmail.com)
 
 Thanks for stopping by! 😄 Feel free to check out my repositories or get in touch!
